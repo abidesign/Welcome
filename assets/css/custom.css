@@ -1,0 +1,19 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Ruthie&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+.main-header{
+	/*font-family: 'Ruthie', cursive !important;*/
+	font-family: 'Poiret One', cursive !important;
+	letter-spacing: 0em !important;
+	font-weight: normal !important;
+	font-size: 8em !important;
+	text-shadow: 8px 8px 3px rgba(0,0,0,0.15);
+	padding-bottom: 20pt;
+}
+
+.grow { transition: all .6s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
